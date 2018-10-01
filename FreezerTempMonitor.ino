@@ -4,6 +4,7 @@
 #include "Adafruit_MQTT.h"
 #include "Adafruit_MQTT_Client.h"
 
+// Temp sensor is on D1, which maps to arduino pin 5.
 #define ONE_WIRE_BUS 5
 // Warning led is on D0
 #define LED_WARN D0
