@@ -9,3 +9,5 @@ Uses the adafruit.io mqtt service for data collection and iftt for alerting.
 ![completed temperature monitor](https://i.imgur.com/QfJXgjM.jpg)
 
 ![board layout](https://i.imgur.com/V8oLVk6.png)
+
+![schematic](https://i.imgur.com/6s5ECs7.png)
