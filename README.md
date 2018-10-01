@@ -6,5 +6,6 @@ Written for a Wemos D1 esp8266 board, but will run with any esp8266-based board 
 
 Uses the adafruit.io mqtt service for data collection and iftt for alerting.
 
-
 ![completed temperature monitor](https://i.imgur.com/QfJXgjM.jpg)
+
+![board layout](https://i.imgur.com/V8oLVk6.png)
