@@ -8,7 +8,7 @@ general purpose temperature monitor but I use it to monitor my freezer, so there
 Written for a Wemos D1 esp8266 board, but will run with any esp8266-based board
 with small modifications.
 
-Uses the adafruit.io mqtt service for data collection and iftt for alerting.
+Uses the adafruit.io mqtt service for data collection and ifttt for alerting.
 
 Power is supplied via the micro-usb connector on the D1 mini board, so you can
 power this with any usb cable.
