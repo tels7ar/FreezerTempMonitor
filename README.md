@@ -29,7 +29,7 @@ When the temperature goes higher than the set value, the red led turns on.
 
 ## Parts List
 
-* ![Wemos D1 Mini](https://www.banggood.com/D1-Mini-NodeMcu-Lua-WIFI-ESP8266-Development-Board-p-1044858.html?)
+* [Wemos D1 Mini](https://www.banggood.com/D1-Mini-NodeMcu-Lua-WIFI-ESP8266-Development-Board-p-1044858.html?)
     * Any D1 Mini will probably work - haven't tried lite or pro versions
 * 220 ohm resistor
     * Exact value isn't critical, this just acts as a current limiter for the led.
@@ -38,12 +38,12 @@ When the temperature goes higher than the set value, the red led turns on.
     * Same as 220 ohm resistor
 * 4.7k ohm resistor
     * This is the specific value needed for parasitic power on the temperature sensor
-* ![DS18B20 temperature sensor](https://www.banggood.com/Wholesale-DS18B20-Waterproof-Digital-Temperature-Temp-Sensor-Probe-p-53674.html?)
-    * You could use ![the regular version of this sensor](https://www.banggood.com/DS18B20-Temperature-Sensor-DALLAS-18B20-TO-92-Encapsulation-p-91798.html?rmmds=buy) too if you just want to monitor environmental temperature
+* [DS18B20 temperature sensor](https://www.banggood.com/Wholesale-DS18B20-Waterproof-Digital-Temperature-Temp-Sensor-Probe-p-53674.html?)
+    * You could use [the regular version of this sensor](https://www.banggood.com/DS18B20-Temperature-Sensor-DALLAS-18B20-TO-92-Encapsulation-p-91798.html?rmmds=buy) too if you just want to monitor environmental temperature
 * red led
 * green led
-* ![case](https://www.banggood.com/2pcs-75-x-54-x-27mm-DIY-Plastic-Project-Housing-Electronic-Junction-Case-Power-Supply-Box-p-1063302.html?rmmds=myorder)
-* ![magnet](https://www.banggood.com/N52-50mmx5mm-Countersunk-Ring-Magnet-Disc-Hole-6mm-Rare-Earth-Neodymium-Magnet-p-995060.html?rmmds=search)
+* [case](https://www.banggood.com/2pcs-75-x-54-x-27mm-DIY-Plastic-Project-Housing-Electronic-Junction-Case-Power-Supply-Box-p-1063302.html?rmmds=myorder)
+* [magnet](https://www.banggood.com/N52-50mmx5mm-Countersunk-Ring-Magnet-Disc-Hole-6mm-Rare-Earth-Neodymium-Magnet-p-995060.html?rmmds=search)
     * I used this magnet to hold the case on to the front of my freezer.
 
 ## To Do
