@@ -51,20 +51,20 @@ When the temperature goes higher than the set value, the red led turns on.
 * Read config settings from adafruit.io instead of hard coding them.
 * Store readings locally on the d1 flash
 * Use setting read from adafruit.io for the alert value in the code and the alert value in ifttt
-** that way I don't have to track it in two places.
+    * that way I don't have to track it in two places.
 * Make this a generic temperature monitor by allowing trigger when temp goes to high OR too low.
 * Use pwm to make the red led flash instead of just steady on
 * Some sort of battery backup?
 * Implement sleep mode to reduce power requirements
 * Implement this on an esp32 Wemos mini for even better power savings
-** maybe make this battery powered
-** or at least have a battery backup
+    * maybe make this battery powered
+    * or at least have a battery backup
 * Throw in humidity monitoring, other things?`
 * Rework which pins are used so that wiring and potential pcb layout are cleaner.
 * Get a pcb made so assembly is cleaner.
 * Alert if device starts sending bad data - this probably means the temp probe has failed or been unplugged.
 * Turn off builtin led entirely and flash the power led to indicate thigs like successful network connection
-** builtin led is obscured by case anyway.
+    * builtin led is obscured by case anyway.
 * Add a buzzer!
 * Rewrite in micropython or nodemcu
-** definitely want to use an esp32 device for that
+    * definitely want to use an esp32 device for that
