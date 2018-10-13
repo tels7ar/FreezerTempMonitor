@@ -25,6 +25,8 @@ When the temperature goes higher than the set value, the red led turns on.
 
 ![board layout](https://i.imgur.com/V8oLVk6.png)
 
+Note that this board layout actually works!  I got it made at [OSH Park](https://oshpark.com)!
+
 ![schematic](https://i.imgur.com/6s5ECs7.png)
 
 ## Parts List
